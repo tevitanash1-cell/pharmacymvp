@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Pharmacy A", "visitsPerMonth": 2, "lastVisit": "2025-11-20" },
+  { "id": 2, "name": "Pharmacy B", "visitsPerMonth": 1, "lastVisit": "2025-11-25" }
+]
